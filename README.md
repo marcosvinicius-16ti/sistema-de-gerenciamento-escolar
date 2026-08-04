@@ -20,3 +20,14 @@ Projeto desenvolvido em Java para praticar conceitos de Programação Orientada 
 - Java
 
 ## Estrutura
+
+gerenciamentoescolar/
+├── Aluno.java
+├── Pessoa.java
+├── Professor.java
+├── Turma.java
+└── Main.java
+
+## Objetivo
+
+Projeto desenvolvido durante os estudos de Ciência da Computação para praticar Programação Orientada a Objetos em Java.
