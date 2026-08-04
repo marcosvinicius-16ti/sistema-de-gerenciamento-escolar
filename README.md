@@ -17,7 +17,7 @@ Projeto desenvolvido em Java para praticar conceitos de Programação Orientada 
 - super classe
 
 ## Tecnologias
-- Java
+- Java (utilizei o vscode onde tenho mais experiencia)
 
 ## Estrutura
 
