@@ -23,10 +23,10 @@ Projeto desenvolvido em Java para praticar conceitos de Programação Orientada 
 
 gerenciamentoescolar/
 ├── Aluno.java
+├── Main.java
 ├── Pessoa.java
 ├── Professor.java
-├── Turma.java
-└── Main.java
+└── Turma.java
 
 ## Objetivo
 
